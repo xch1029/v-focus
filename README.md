@@ -5,6 +5,7 @@ npm install -S v-focus
 
 ## import in main.js
 `import Focus from 'v-focus';`
+
 `Vue.use(Focus);`
 
 ## quick start
