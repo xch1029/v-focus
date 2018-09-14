@@ -1,6 +1,6 @@
 {
   "name": "v-focus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "v-focus for vue",
   "main": "index.js",
   "scripts": {
